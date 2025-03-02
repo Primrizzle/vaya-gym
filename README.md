@@ -35,3 +35,5 @@ Contributions are welcome! Fork the repository and create a pull request with yo
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Screenshots are included in the screenshots directory
