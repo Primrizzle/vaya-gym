@@ -1,0 +1,6 @@
+@import "tailwindCSS"; 
+@plugin "daisyui";
+
+body {
+  font-family: 'Garamond', serif;
+}
