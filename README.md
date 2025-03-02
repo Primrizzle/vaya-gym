@@ -10,7 +10,7 @@ This project is a website developed using a Figma design template. It’s built 
 
 ## Getting Started
 **Prerequisites:**
-- Node.js
+- [Node.js](https://nodejs.org/docs/latest/api/)
 - npm or Yarn
 
 ## Installation
@@ -26,7 +26,7 @@ Start the development server with:
 npm run dev
 ```
 
-[Figma Community Design Template](https://www.figma.com/design/QJcuNwTotUxt1NrlVqPgDA/5-Websites-UI-(Community)?node-id=0-1&p=f&t=Wg9bwfJLfczzRGK9-0)
+## [Figma Community Design Template](https://www.figma.com/design/QJcuNwTotUxt1NrlVqPgDA/5-Websites-UI-(Community)?node-id=0-1&p=f&t=Wg9bwfJLfczzRGK9-0)
 The website’s design is based on a Figma template, which guided the visual and interaction design. If you have access to the design file, feel free to explore and iterate further on the UI.
 
 
