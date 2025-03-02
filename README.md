@@ -1,12 +1,37 @@
-# React + Vite
+# **My Figma-Inspired Website**
+This project is a website developed using a Figma design template. It’s built with modern web technologies including React and Vite for a fast, component-based development experience, alongside Tailwind CSS (v4) for utility-first styling. The UI is enhanced with pre-built components from DaisyUI and Hyper UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used
+- [React Docs](https://reactjs.org/docs/getting-started.html)
+- [Vite Docs](https://vitejs.dev/guide/)
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- [DaisyUI Docs](https://daisyui.com/docs/)
+- [HyperUI Docs](https://hyperui.dev/)
 
-Currently, two official plugins are available:
+## Getting Started
+**Prerequisites:**
+- Node.js
+- npm or Yarn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+Clone the repository and install dependencies:
+```
+git clone https://github.com/Primrizzle/vaya-gym.git
+cd vaya-gym
+npm install
+```
+## Running the Development Server
+Start the development server with:
+```
+npm run dev
+```
 
-## Expanding the ESLint configuration
+[Figma Community Design Template](https://www.figma.com/design/QJcuNwTotUxt1NrlVqPgDA/5-Websites-UI-(Community)?node-id=0-1&p=f&t=Wg9bwfJLfczzRGK9-0)
+The website’s design is based on a Figma template, which guided the visual and interaction design. If you have access to the design file, feel free to explore and iterate further on the UI.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Contributing
+Contributions are welcome! Fork the repository and create a pull request with your proposed changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
